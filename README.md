@@ -15,7 +15,7 @@ https://github.com/testing-library/react-testing-library
 yarn add react-testing-library
 ```
 
-
+## Info:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
