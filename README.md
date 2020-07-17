@@ -1,3 +1,22 @@
+# Comment Feed
+
+## Getting started:
+
+```
+git clone https://github.com/CharlyMannion/comment-feed
+```
+
+## Testing Suite:
+
+* This app was built by following a TDD approach, using Kent's React Testing Library.
+https://github.com/testing-library/react-testing-library
+* It is a lightweight test utility that encourages the developer to test their application in the same way that it’ll be used.
+```
+yarn add react-testing-library
+```
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
