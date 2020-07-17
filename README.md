@@ -14,6 +14,10 @@ https://github.com/testing-library/react-testing-library
 ```
 yarn add react-testing-library
 ```
+* To run the tests:
+```
+yarn test --watch
+```
 
 ## Info:
 
