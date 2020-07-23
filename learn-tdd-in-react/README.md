@@ -1,3 +1,7 @@
+# Message List
+
+A simple message list, built to practice building a React app following a TDD approach.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
